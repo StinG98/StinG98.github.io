@@ -3,5 +3,5 @@ function greet() {
 }
 
 function init() {
-	document.getElementById("first").src="car1.png";
+	document.getElementById("first").src="car2.png";
 	}
